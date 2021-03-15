@@ -1,0 +1,5 @@
+r
+loadfile _build/Temperature_Network_Project_sdk15_s140.hex 
+r
+g
+exit
