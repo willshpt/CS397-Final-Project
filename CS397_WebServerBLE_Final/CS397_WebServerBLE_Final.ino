@@ -5,7 +5,7 @@
  * https://randomnerdtutorials.com/esp32-esp8266-plot-chart-web-server/
  * https://randomnerdtutorials.com/esp32-bluetooth-low-energy-ble-arduino-ide/
  * https://circuits4you.com/2018/11/20/web-server-on-esp32-how-to-update-and-display-sensor-values/
- * Project found at 
+ * Project found at https://github.com/willshpt/CS397-Final-Project
  */
 
 
